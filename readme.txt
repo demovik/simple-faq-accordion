@@ -8,5 +8,6 @@ Adds an FAQ section with jQuery UI accordion, supports native options, duplicati
 
 == Description ==
 
+WordPress plugin.
 Adds an FAQ section with jQuery UI accordion, supports native options, duplication, and reordering.
 
