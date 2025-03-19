@@ -1,0 +1,12 @@
+=== Simple FAQ Accordion ===
+Contributors: demovik
+Stable tag: 1.0.0
+Tested up to: 6.4
+Requires at least: 4.6
+
+Adds an FAQ section with jQuery UI accordion, supports native options, duplication, and reordering.
+
+== Description ==
+
+Adds an FAQ section with jQuery UI accordion, supports native options, duplication, and reordering.
+
